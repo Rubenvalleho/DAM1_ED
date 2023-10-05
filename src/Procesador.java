@@ -1,3 +1,4 @@
+//Esta clase está añadida al servidor git
 public class Procesador {
     //Estados, atributos, propiedades
     public String marca;
