@@ -7,5 +7,5 @@ public class MemoriaRam {
     public String memoria;
     public String precio;
 
-    public String getNombreCompleto () {return + marca + " " + modelo + " " + tipo + " " + velocidad + " " + memoria + " " + precio};
+    public String getNombreCompleto() {return + marca + " " + modelo + " " + tipo + " " + velocidad + " " + memoria + " " + precio;};
 }
